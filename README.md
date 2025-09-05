@@ -2,6 +2,7 @@
 AI-powered multilingual emotional wellness chatbot
 
 
+```
 culturalcare-ai/
 │
 ├── README.md                # Project overview, setup, usage
@@ -56,3 +57,4 @@ culturalcare-ai/
     ├── test_api.py
     ├── test_nlp.py
     └── test_classifier.py
+```
